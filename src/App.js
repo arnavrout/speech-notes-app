@@ -36,7 +36,7 @@ function App() {
 
         <div className="btn-style">
         <button onClick={setCopied}>
-          {isCopied ? "Speech Copied!👍" : "Copy Your Speech"}
+          {isCopied ? "Speech Copied!" : "Copy Speech"}
         </button>
           <button onClick={startListening}>Start Speech</button>
           <button onClick={SpeechRecognition.stopListening}>Stop Speech</button>
