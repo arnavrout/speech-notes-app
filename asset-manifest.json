@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/speech-notes-app/static/css/main.7405ff33.css",
-    "main.js": "/speech-notes-app/static/js/main.1f40d8f0.js",
+    "main.js": "/speech-notes-app/static/js/main.b3fa2b7f.js",
     "static/js/787.295ef981.chunk.js": "/speech-notes-app/static/js/787.295ef981.chunk.js",
     "static/media/headingTextBg.jpg": "/speech-notes-app/static/media/headingTextBg.6bc5e07b0e76b2d3625b.jpg",
     "index.html": "/speech-notes-app/index.html",
     "main.7405ff33.css.map": "/speech-notes-app/static/css/main.7405ff33.css.map",
-    "main.1f40d8f0.js.map": "/speech-notes-app/static/js/main.1f40d8f0.js.map",
+    "main.b3fa2b7f.js.map": "/speech-notes-app/static/js/main.b3fa2b7f.js.map",
     "787.295ef981.chunk.js.map": "/speech-notes-app/static/js/787.295ef981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7405ff33.css",
-    "static/js/main.1f40d8f0.js"
+    "static/js/main.b3fa2b7f.js"
   ]
 }
